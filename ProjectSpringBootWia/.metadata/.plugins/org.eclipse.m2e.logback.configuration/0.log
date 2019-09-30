@@ -1,0 +1,115 @@
+2019-09-29 15:51:22,184 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-09-29 16:01:24,032 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com_wia:WiaProjectSpringBoot:0.0.1-SNAPSHOT @ D:\Pelatihan\JAVA LANJUTAN\UAS JAVA LANJUTAN\UASWiaHandayani\ProjectSpringBootWia\WiaProjectSpringBoot\pom.xml.
+2019-09-29 16:01:47,518 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WiaProjectSpringBoot/src/main/java
+2019-09-29 16:01:47,519 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /WiaProjectSpringBoot/src/main/resources
+2019-09-29 16:01:47,523 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /WiaProjectSpringBoot/src/main/resources
+2019-09-29 16:01:47,524 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WiaProjectSpringBoot/src/test/java
+2019-09-29 16:01:51,395 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 46 sec
+2019-09-29 16:01:54,580 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-29 16:01:54,608 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-29 16:01:54,630 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-29 16:01:54,634 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-29 16:01:54,635 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Pelatihan\JAVA LANJUTAN\UAS JAVA LANJUTAN\UASWiaHandayani\ProjectSpringBootWia\WiaProjectSpringBoot\src\test\resources
+2019-09-29 16:02:28,471 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-09-29 16:02:29,245 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com_wia:WiaProjectSpringBoot:0.0.1-SNAPSHOT @ D:\Pelatihan\JAVA LANJUTAN\UAS JAVA LANJUTAN\UASWiaHandayani\ProjectSpringBootWia\WiaProjectSpringBoot\pom.xml.
+2019-09-29 16:02:31,428 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WiaProjectSpringBoot/src/main/java
+2019-09-29 16:02:31,429 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /WiaProjectSpringBoot/src/main/resources
+2019-09-29 16:02:31,429 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /WiaProjectSpringBoot/src/main/resources
+2019-09-29 16:02:31,430 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WiaProjectSpringBoot/src/test/java
+2019-09-29 16:02:33,603 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for WiaProjectSpringBoot
+2019-09-29 16:02:33,621 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2019-09-29 16:02:34,521 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-29 16:02:34,522 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-29 16:02:34,555 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-29 16:02:34,562 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-29 16:02:34,562 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Pelatihan\JAVA LANJUTAN\UAS JAVA LANJUTAN\UASWiaHandayani\ProjectSpringBootWia\WiaProjectSpringBoot\src\test\resources
+2019-09-29 16:02:34,563 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WiaProjectSpringBoot
+2019-09-29 16:02:34,564 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WiaProjectSpringBoot
+2019-09-29 16:02:34,571 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-29 23:02:41,927 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-09-29 23:03:15,513 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-29 23:03:15,522 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-29 23:03:15,550 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-29 23:03:15,555 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-29 23:03:15,555 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Pelatihan\JAVA LANJUTAN\UAS JAVA LANJUTAN\UASWiaHandayani\ProjectSpringBootWia\WiaProjectSpringBoot\src\test\resources
+2019-09-29 23:04:47,919 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-09-29 23:05:26,824 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Pelatihan\JAVA LANJUTAN\UAS JAVA LANJUTAN\UASWiaHandayani\ProjectSpringBootWia\WiaProjectSpringBoot
+2019-09-29 23:05:26,827 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-09-29 23:06:08,082 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-09-29 23:06:08,231 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Pelatihan\JAVA LANJUTAN\UAS JAVA LANJUTAN\UASWiaHandayani\ProjectSpringBootWia\WiaProjectSpringBoot
+2019-09-29 23:06:08,231 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-09-29 23:06:31,009 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-09-29 23:06:33,111 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com_wia:WiaProjectSpringBoot:0.0.1-SNAPSHOT @ D:\Pelatihan\JAVA LANJUTAN\UAS JAVA LANJUTAN\UASWiaHandayani\ProjectSpringBootWia\WiaProjectSpringBoot\pom.xml.
+2019-09-29 23:06:36,471 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WiaProjectSpringBoot/src/main/java
+2019-09-29 23:06:36,472 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /WiaProjectSpringBoot/src/main/resources
+2019-09-29 23:06:36,473 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /WiaProjectSpringBoot/src/main/resources
+2019-09-29 23:06:36,473 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WiaProjectSpringBoot/src/test/java
+2019-09-29 23:06:38,104 [Worker-15] ERROR o.e.m.w.jsf.internal.utils.JSFUtils - An error occurred trying to find javax.faces.webapp.FacesServlet :
+java.net.UnknownHostException: java.sun.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_25]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[na:1.8.0_25]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[na:1.8.0_25]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_25]
+	at java.net.Socket.connect(Unknown Source) ~[na:1.8.0_25]
+	at sun.net.NetworkClient.doConnect(Unknown Source) ~[na:1.8.0_25]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[na:1.8.0_25]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[na:1.8.0_25]
+	at sun.net.www.http.HttpClient.<init>(Unknown Source) ~[na:1.8.0_25]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[na:1.8.0_25]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[na:1.8.0_25]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source) ~[na:1.8.0_25]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source) ~[na:1.8.0_25]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source) ~[na:1.8.0_25]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source) ~[na:1.8.0_25]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[na:1.8.0_25]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[na:1.8.0_25]
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(Unknown Source) ~[na:1.8.0_25]
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startEntity(Unknown Source) ~[na:1.8.0_25]
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.startDTDEntity(Unknown Source) ~[na:1.8.0_25]
+	at com.sun.org.apache.xerces.internal.impl.XMLDTDScannerImpl.setInputSource(Unknown Source) ~[na:1.8.0_25]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.dispatch(Unknown Source) ~[na:1.8.0_25]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.next(Unknown Source) ~[na:1.8.0_25]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(Unknown Source) ~[na:1.8.0_25]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(Unknown Source) ~[na:1.8.0_25]
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source) ~[na:1.8.0_25]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_25]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source) ~[na:1.8.0_25]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source) ~[na:1.8.0_25]
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(Unknown Source) ~[na:1.8.0_25]
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(Unknown Source) ~[na:1.8.0_25]
+	at javax.xml.parsers.DocumentBuilder.parse(Unknown Source) ~[na:1.8.0_25]
+	at org.eclipse.m2e.wtp.jsf.internal.utils.JSFUtils.hasFacesServlet(JSFUtils.java:139) [org.eclipse.m2e.wtp.jsf_1.3.2.20170517-2015.jar:na]
+	at org.eclipse.m2e.wtp.jsf.internal.utils.JSFUtils.hasFacesServlet(JSFUtils.java:115) [org.eclipse.m2e.wtp.jsf_1.3.2.20170517-2015.jar:na]
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.WebXmlJSFFacetDetector.hasFacesServletInWebXml(WebXmlJSFFacetDetector.java:80) [org.eclipse.m2e.wtp.jsf_1.3.2.20170517-2015.jar:na]
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.WebXmlJSFFacetDetector.findFacetVersion(WebXmlJSFFacetDetector.java:55) [org.eclipse.m2e.wtp.jsf_1.3.2.20170517-2015.jar:na]
+	at org.eclipse.m2e.wtp.facets.FacetDetectorManager.findFacetVersion(FacetDetectorManager.java:91) [org.eclipse.m2e.wtp_1.3.2.20170517-2015.jar:na]
+	at org.eclipse.m2e.wtp.facets.FacetDetectorManager.findFacetVersion(FacetDetectorManager.java:61) [org.eclipse.m2e.wtp_1.3.2.20170517-2015.jar:na]
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.JSFProjectConfigurator.configureInternal(JSFProjectConfigurator.java:93) [org.eclipse.m2e.wtp.jsf_1.3.2.20170517-2015.jar:na]
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.JSFProjectConfigurator.configure(JSFProjectConfigurator.java:68) [org.eclipse.m2e.wtp.jsf_1.3.2.20170517-2015.jar:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:508) [org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:439) [org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:352) [org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:349) [org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.12.0.v20170417-1558.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.0.v20170322-0013.jar:na]
+2019-09-29 23:06:38,855 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for WiaProjectSpringBoot
+2019-09-29 23:06:38,861 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2019-09-29 23:06:40,144 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-29 23:06:40,145 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-29 23:06:40,167 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-29 23:06:40,171 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-29 23:06:40,171 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Pelatihan\JAVA LANJUTAN\UAS JAVA LANJUTAN\UASWiaHandayani\ProjectSpringBootWia\WiaProjectSpringBoot\src\test\resources
+2019-09-29 23:06:40,171 [Worker-1] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WiaProjectSpringBoot
+2019-09-29 23:06:40,172 [Worker-1] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WiaProjectSpringBoot
+2019-09-29 23:06:40,179 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

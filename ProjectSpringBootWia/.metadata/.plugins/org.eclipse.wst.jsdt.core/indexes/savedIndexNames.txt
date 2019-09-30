@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\Pelatihan\JAVA LANJUTAN\UAS JAVA LANJUTAN\UASWiaHandayani\ProjectSpringBootWia\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1977568976.index
+2491644523.index
+4122635882.index
+988792970.index
+2498524804.index
+2728353959.index
